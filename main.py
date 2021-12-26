@@ -2,7 +2,7 @@ import tweepy
 import os
 from dotenv import load_dotenv
 
-USERNAME="dstarner"
+USERNAME="dan_starner"
 OVERFLOW_LIST="misc"
 
 load_dotenv()
